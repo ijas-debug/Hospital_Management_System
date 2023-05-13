@@ -1,0 +1,119 @@
+.ayshel1{
+    letter-spacing: 15px;
+    font-family: var(--typeHeaderPrimary),var(--typeHeaderFallback); 
+    
+}
+.ayshel{
+
+letter-spacing: 3px;
+font-family: var(--typeBasePrimary),var(--typeBaseFallback);
+}
+.top{
+letter-spacing: 10px;
+font-size: 60px;
+margin-left: 700px;
+margin-top: 50px;
+font-family: var(--typeHeaderPrimary),var(--typeHeaderFallback);
+}
+.h3
+{
+font-size: calc(var(--typeHeaderSize)*.65); 
+}
+.checkayshel
+{
+color: var(--colorTextBody);
+letter-spacing: 10px;
+margin-top: 50px;
+}
+
+.btn--small
+{
+padding: 8px 14px;
+background-position: 150% 45%;
+min-width: 90px;
+font-size: calc(var(--typeBaseSize) - 6px);
+font-size: max(calc(var(--typeBaseSize) - 6px),12px);
+}
+.btn--secondary
+{
+color: #000;
+color: var(--colorTextBody);
+border: 1px solid;
+border-color: #000;
+border-color: var(--colorBorder);
+background-color: transparent;
+}
+.sale
+{
+    float: left;
+    margin-left: 50px;
+}
+.imagebox
+{
+  float: left;
+  margin-left: 410px;
+}
+.blousetext
+{
+  padding-left: 280px;
+}
+.videobar
+{
+  margin-top: 200px;
+}
+.campaign
+{
+  font-size: 2.375rem;
+  letter-spacing: 0;
+  line-height: 2.5rem;
+  font-weight: 500;
+  width: 50%;
+}
+.blackwidow
+{
+padding-top: 1000px;
+}
+
+.shoes
+{
+margin-top: 100px;
+}
+
+.shoespara
+{
+font-weight: 200;
+font-style: normal;
+font-size: 36px;
+text-transform: none;
+line-height: 1.2;
+padding-left: 35px;
+}
+.quote
+{
+margin-top: 100px;
+margin-left: 520px;
+
+}
+.ralph
+{
+margin-left: 850px;
+}
+.image1
+{
+    float: left;
+    text-transform: uppercase;
+    font-size: calc(var(--typeBaseSize) - 2px);
+    letter-spacing: .2em;
+    margin-left: 100px;
+}
+.image2
+{
+  margin-left: 350px;
+  margin-top: 60px;
+}
+
+
+.bar1
+{
+    margin-top: 150px;
+}

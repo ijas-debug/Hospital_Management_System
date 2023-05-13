@@ -1,0 +1,67 @@
+
+* {
+  /* Change your font family */
+  font-family: sans-serif;
+}
+
+.searchtable{
+  display: flex;
+  justify-content: center;
+}
+.content-table button{
+  color: black;
+  border: 0px solid;
+}
+.content-table button:hover{
+  color: rgb(97, 219, 178);
+  transition: 0.5s;
+}
+.content-table form{
+  color: black;
+  border: 0px solid;
+}
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border: none;
+  border-radius: 15px;
+}
+
+.content-table thead tr {
+  background-color: rgb(72, 164, 195);
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 0px solid #dddddd;
+  
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3ff;
+}
+.content-table tbody tr:nth-of-type(odd) {
+  background-color: #714bd388;
+}
+
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 0px solid #dce1e3;
+}
+
+.content-table tbody tr.active-row {
+  font-weight: bold;
+  color: #000000;
+}

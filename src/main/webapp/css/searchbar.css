@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchbar{
+    background: white;
+    width: 600px;
+    height: 55px;
+    display: flex;
+    border-radius: 50px;
+    
+}
+.searchbar input{
+    flex: 1;
+    border: none;
+    outline: none;
+        
+}
+.searchbar button{
+    background: rgb(74, 168, 200);
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.rhs{
+    margin-left: 40px;
+    float: left;
+}
+.description{
+    margin-top: 20px;
+}
+
+.lhs-flex{
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;  
+}
+.rhs-flex{
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      
+}
+ 
